@@ -1,4 +1,4 @@
-import React, { Component } from "react"
+import React from "react"
 import Form_11 from './Form_11'
 
 function App11() {
