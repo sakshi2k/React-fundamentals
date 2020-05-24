@@ -2,7 +2,7 @@ This project directory contains multiple App files each containing different con
 of the ReactJS fundamentals.
 
 
-### to run any file
+### To run any partical App file from src :
 import that file in src/index.js or index.js file in src folder and use that wjile rendering.
 e.g. : 
 import App2 from './App2';
